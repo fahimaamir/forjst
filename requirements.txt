@@ -283,7 +283,6 @@ Pygments==2.18.0
 pygwalker==0.4.9.13
 pyinstaller==6.13.0
 pyinstaller-hooks-contrib==2025.3
-PyJWT==2.10.1
 pymdown-extensions==10.12
 PyMySQL==1.1.1
 pynndescent==0.5.13
