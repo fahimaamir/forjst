@@ -314,7 +314,6 @@ python-socketio==5.11.4
 pythonnet==3.0.5
 pytz==2024.2
 PyWavelets==1.8.0
-pywebview==5.4
 ray==2.44.1
 react==4.3.0
 redis==5.2.1
