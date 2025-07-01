@@ -316,7 +316,6 @@ pytz==2024.2
 PyWavelets==1.8.0
 pywebview==5.4
 pywinpty==2.0.14
-PyYAML==6.0.2
 ray==2.44.1
 react==4.3.0
 redis==5.2.1
