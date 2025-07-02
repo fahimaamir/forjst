@@ -391,8 +391,6 @@ streamlit_book==0.7.6
 streamlit_dynamic_filters==0.1.9
 streamlit_sql==0.2.4
 striprtf==0.0.29
-strsimpy==0.2.1
-tensorflow==2.19.0
 termcolor==2.5.0
 terminado==0.18.1
 text-unidecode==1.3
