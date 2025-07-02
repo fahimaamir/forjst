@@ -394,7 +394,6 @@ striprtf==0.0.29
 strsimpy==0.2.1
 tabulate==0.9.0
 tangled-up-in-unicode==0.2.0
-tenacity==9.0.0
 tensorflow==2.19.0
 termcolor==2.5.0
 terminado==0.18.1
