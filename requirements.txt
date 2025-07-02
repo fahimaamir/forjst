@@ -311,7 +311,6 @@ python-multipart==0.0.19
 python-openstackclient==7.2.1
 python-slugify==8.0.4
 python-socketio==5.11.4
-pythonnet==3.0.5
 ray==2.44.1
 react==4.3.0
 redis==5.2.1
